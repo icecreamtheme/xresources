@@ -14,7 +14,3 @@ cat Xresources >> $HOME/.Xresources # Update the path to your Xresources path
 
 ![Screenshot](screenshot.png)
 
-## License
-
-[MIT](LICENSE)
-
